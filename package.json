@@ -1,7 +1,7 @@
 {
   "name": "api-nicagram",
   "version": "1.0.0",
-  "description": "Simple api for Nicagram Mobile Application",
+  "description": "Simple API for Nicagram Mobile Application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
